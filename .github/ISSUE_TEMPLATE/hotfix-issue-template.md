@@ -1,7 +1,7 @@
 ---
 name: Hotfix Issue Template
 about: 급하게 해결되어야하는 버그 수정
-title: ''
+title: "[hotfix] 작업이 필요한 내용"
 labels: hotfix
 assignees: ''
 
